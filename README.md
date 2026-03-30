@@ -1,3 +1,13 @@
+# Análise de Vendas
+
 Projeto de análise de dados usando Python.
 
-O objetivo foi analisar vendas, calcular faturamento e gerar gráficos com pandas e matplotlib.
+## Objetivo
+- Analisar vendas
+- Calcular faturamento
+- Gerar gráficos
+
+## Tecnologias
+- Python
+- Pandas
+- Matplotlib
